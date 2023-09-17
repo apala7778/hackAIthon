@@ -1,0 +1,79 @@
+   
+.frame {
+      width: 70%;
+      height: 85vh;
+       margin-top: 5px;
+       margin-left: 5px;
+      background-color: rgb(15, 8, 45);
+      border-top-left-radius: 15px;
+      border-top-right-radius: 15px;
+    
+     
+     
+}
+.head {
+    background-color:  rgb(16, 8, 52);
+     width: 100%;
+     height: 70px;
+    border-top-left-radius: 15px;
+      border-top-right-radius: 15px;
+}
+
+
+
+.main {
+    background-color:  rgb(35, 26, 73);
+   
+    height: 70vh;
+   
+     
+
+
+}
+
+.msg {
+
+    
+    padding: 15px;
+    background-color:  rgb(28, 21, 65);
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+  
+   
+    
+
+}
+
+.message {
+    text-align: center;
+   
+    width: 85%;
+    height: 30px;
+    align-items: center;
+    border:  0.5px solid rgb(18, 5, 62);
+    border-radius: 15px;
+    display: flex;
+    justify-content: flex-end;
+    border: 2px solid rgb(130, 126, 126);
+    
+   
+   
+    
+}
+
+.text {
+     margin-right: 550px;
+     text-align: center;
+     opacity: 0.5;
+     color: aliceblue;
+}
+
+svg {
+    width: 20px;
+    height: 20px;
+    margin-left:10px;
+    border-radius: 50%;
+}
+
+ 
